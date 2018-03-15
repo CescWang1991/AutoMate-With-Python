@@ -57,6 +57,8 @@
     *   8.3 [用shelve 模块保存变量](./CH8/shelf.py)
     
     *   8.5 [项目：生成随机的测验试卷文件](./CH8/randomQuizGenerator.py)
+    
+    *   8.6 [项目：多重剪贴板](./CH8/mcb.pyw)
 
 *   第九章：[组织文件](./CH9)
 
