@@ -69,3 +69,16 @@
     *   9.4 [项目：将带有美国风格日期的文件改名为欧洲风格日期](./CH9/renameDates.py)
     
     *   9.5 [项目：将一个文件夹备份到一个ZIP 文件](./CH9/backupToZip.py)
+
+*   第十章：[调试](./CH10)
+
+    *   10.1 [抛出异常](./CH10/boxPrint.py)
+    
+    *   10.2 [取得反向跟踪的字符串](./CH10/errorInfo.py)
+    
+    *   10.3 [断言](./CH10/switchLights.py)
+    
+    *   10.4 [日志](./CH10/factorialLog.py)
+    
+    *   10.8 [实践项目：调试硬币抛掷](./CH10/flipCoin.py)
+    
