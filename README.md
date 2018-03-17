@@ -82,3 +82,14 @@
     
     *   10.8 [实践项目：调试硬币抛掷](./CH10/flipCoin.py)
     
+*   第十一章：[从Web抓取信息](./CH11)
+
+    *   11.1 [项目：利用webbrowser 模块的mapIt.py](./CH11/mapIt.py)
+    
+    *   11.2 [用requests模块从Web下载文件](./CH11/requestAndWrite.py)
+    
+    *   11.3 [将下载的文件保存到硬盘](./CH11/requestAndWrite.py)
+    
+    *   11.6 [项目：“I’m Feeling Lucky”Google 查找](./CH11/lucky.py)
+    
+    *   11.7 [项目：下载所有XKCD 漫画](./CH11/downloadXkcd.py)
