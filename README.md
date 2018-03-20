@@ -93,3 +93,9 @@
     *   11.6 [项目：“I’m Feeling Lucky”Google 查找](./CH11/lucky.py)
     
     *   11.7 [项目：下载所有XKCD 漫画](./CH11/downloadXkcd.py)
+
+*   第十三章：[处理PDF和Word文档](./CH13)
+
+    *   13.1 [PDF文档](./CH13/pdfReader.py)
+    
+    *   13.3 [Word文档](./CH13/docxReader.py)
