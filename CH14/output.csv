@@ -1,0 +1,10 @@
+Node1,Node2,Co-occurrence,Strength,NetworkPass1,Order,NetworkPass2Node1,NetworkPass2Node2
+DataMining,BigData,9,0.4909091,3,1,0,0
+Development,Architect,1,0.033333335,0,0,0,0
+Assurance,Development,1,0.166666672,0,0,0,0
+Robotics,Development,1,0.166666672,0,0,0,0
+Robotics,Assurance,1,1,0,0,0,0
+R,Elasticsearch,4,0.152380958,0,0,0,0
+Mahout,Elasticsearch,1,0.100000001,0,0,0,0
+MapReduce,Elasticsearch,1,0.200000003,0,0,0,0
+Mahout,R,1,0.023809524,0,0,0,0
