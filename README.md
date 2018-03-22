@@ -109,4 +109,17 @@
     *   14.4 [json模块](./CH14/jsonOps.py)
     
     *   14.5 [项目：取得当前的天气数据](./CH14/quickWeather.py)
+
+*   第十五章：[保持时间、计划任务和启动程序](./CH15)
+
+    *   15.1 [time模块](./CH15/calcProd.py)
+    
+    *   15.3 [项目：超级秒表](./CH15/stopwatch.py)
+    
+    *   15.4 [datetime模块](CH15/datetimeDemo.py)
+    
+    *   15.6 [多线程](./CH15/threadDemo.py)
+    
+    *   15.7 [项目：多线程XKCD 下载程序](./CH15/multidownloadXkcd.py)
+    
     
