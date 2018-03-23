@@ -122,4 +122,12 @@
     
     *   15.7 [项目：多线程XKCD 下载程序](./CH15/multidownloadXkcd.py)
     
+    *   15.8 [从Python 启动其他程序](./CH15/subprocessDemo.py)
+    
+    *   15.9 [项目：简单的倒计时程序](./CH15/countdown.py)
+
+*   第十六章：[发送电子邮件和短信](./CH16)
+
+    *   16.2 [发送电子邮件](./CH16/smtpDemo.py)
+    
     
