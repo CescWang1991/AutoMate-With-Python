@@ -130,4 +130,10 @@
 
     *   16.2 [发送电子邮件](./CH16/smtpDemo.py)
     
+*   第十七章：[操作图像](./CH17)
     
+    *   17.2 [用Pillow 操作图像](./CH17/imageDemo.py)
+    
+    *   17.3 [17.3 项目：添加徽标](./CH17/resizeAndAddLogo.py)
+    
+    *   17.4 [在图像上绘画](./CH17/imageDrawDemo.py)
